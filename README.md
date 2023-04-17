@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 fullsuck engineer
 
 на острие веб-технологий
+
+![Интернет-серфинг](https://matchsticktheatre.com/wp-content/uploads/2018/10/1001004001994214.jpg "Интернет-серфинг")
